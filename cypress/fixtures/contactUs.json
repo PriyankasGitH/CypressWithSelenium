@@ -1,0 +1,36 @@
+{
+    "userDetails":{
+        "username":"",
+        "password":""
+
+    },
+
+    "contactUsInfo":[
+        {
+            "name": "user1",
+            "email": ["user1@gmail.com","user1@yahoo.com"],
+            "subject": "contact us form through cypress",
+            "message": "Hi good morning, I would like to know about the services",
+            "filePath": "cypress/fixtures/fileUploads/TestFile.png" ,
+            "address":{
+
+                "name":"user1",
+                "place":"Mississauga"
+
+            }
+        },
+        {
+            "name": "user2",
+            "email": ["user2@yahoo.com","user2@gmail.com"],
+            "subject": "contact us form through cypress",
+            "message": "Hi good evening, I have a query.",
+            "filePath": "cypress/fixtures/fileUploads/TestFile.png" ,
+            "address":{
+
+                "name":"user2",
+                "place":"Oakville"
+
+            }
+        }
+    ]
+}

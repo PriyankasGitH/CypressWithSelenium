@@ -1,0 +1,10 @@
+{
+    "postData": {
+      "email": "eve.holt@reqres.in",
+      "password": "pistol"
+    },
+    "putData": {
+      "name": "morpheus",
+      "job": "zion resident"
+    }
+}
